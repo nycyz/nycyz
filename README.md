@@ -5,5 +5,5 @@
 </p>
 
 my name is nycyz  
-I code rust and lua/luaU  
+I code rust go and lua/luaU and some other basic languages
 🐈
